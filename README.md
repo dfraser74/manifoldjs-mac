@@ -18,7 +18,7 @@ npm install -g manifoldjs
 Add macOS platform by 
 
 ```
-manifoldjs platform add mac https://github.com/sozercan/manifoldjs-mac
+manifoldjs platform add mac https://github.com/manifoldjs/manifoldjs-mac
 ```
 
 ## Usage
