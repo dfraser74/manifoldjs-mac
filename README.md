@@ -1,30 +1,30 @@
-# manifoldjs-mac
+# pwabuilder-mac
 
-## ManifoldJS macOS Platform
+## PWA Builder macOS Platform
 
-macOS platform module for [ManifoldJS](https://github.com/manifoldjs/ManifoldJS), a tool for creating hosted web applications based on a [W3C Web App manifest](http://www.w3.org/TR/appmanifest/).
+macOS platform module for [PWA Builder](https://github.com/manifoldjs/ManifoldJS), a tool for creating hosted web applications based on a [W3C Web App manifest](http://www.w3.org/TR/appmanifest/).
 
 ## Documentation
 To get started, visit our [wiki](https://github.com/manifoldjs/ManifoldJS/wiki).
 
 ## Installation
 
-Make sure ManifoldJS is installed. If not, install using:
+Make sure PWA Builder is installed. If not, install using:
 
 ```
-npm install -g manifoldjs
+npm install -g pwabuilder
 ```
 
-Add macOS platform by 
+Add macOS platform by
 
 ```
-manifoldjs platform add mac https://github.com/manifoldjs/manifoldjs-mac
+pwabuilder platform add mac https://github.com/manifoldjs/manifoldjs-mac
 ```
 
 ## Usage
 
 ```
-manifoldjs http://travelcontoso.azurewebsites.net -p mac
+pwabuilder http://travelcontoso.azurewebsites.net -p mac
 ```
 
 ## Screenshot
@@ -33,11 +33,11 @@ manifoldjs http://travelcontoso.azurewebsites.net -p mac
 
 
 ## Future work
-*  Package into zip, dmg and Mac App Store (MAS) formats 
+*  Package into zip, dmg and Mac App Store (MAS) formats
 
 ## License
 
-> manifoldjs-mac
+> pwabuilder-mac
 
 > Copyright (c) Microsoft Corporation
 
