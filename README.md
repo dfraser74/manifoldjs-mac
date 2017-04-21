@@ -18,7 +18,7 @@ npm install -g pwabuilder
 Add macOS platform by
 
 ```
-pwabuilder platform add mac https://github.com/manifoldjs/manifoldjs-mac
+pwabuilder platform add mac pwabuilder-mac
 ```
 
 ## Usage
