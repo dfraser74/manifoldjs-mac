@@ -1,7 +1,7 @@
 {
-  "name": "manifoldjs-mac",
-  "version": "0.2.0",
-  "description": "Manifoldjs macOS Platform",
+  "name": "pwabuilder-mac",
+  "version": "2.0.0-rc.1",
+  "description": "PWA Builder macOS Platform",
   "repository": {
     "type": "git",
     "url": "https://github.com/manifoldjs/manifoldjs-mac"
@@ -28,13 +28,15 @@
     "W3C",
     "Manifold",
     "ManifoldJS",
+    "PWA Builder",
+    "PWA",
     "Mac",
     "OS X",
     "macOS"
   ],
   "dependencies": {
     "electron-packager": "^7.5.0",
-    "manifoldjs-lib": "^1.0.0",
+    "pwabuilder-lib": "^2.0.0-rc",
     "npm": "^3.10.5",
     "q": "^1.4.1",
     "icon-gen": "^1.0.7"
